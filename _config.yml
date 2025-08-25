@@ -36,6 +36,12 @@ pagination:
   permalink: "/page/:num/"
   sort_reverse: true
 
+jekyll-archives:
+  enabled:
+  layout: 'archive'
+  permalinks:
+
+
 # Disqus comments
 # disqus_shortname: bencentra
 
