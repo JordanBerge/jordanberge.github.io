@@ -57,7 +57,7 @@ descriptions:
   - cat: general
     desc: "General Posts"
 
-  - cat: book_reviews
+  - cat: dummy
     desc: "Book Review Posts"
 
 # Social icons and sharing options
